@@ -11,7 +11,6 @@ Secondly we'd like to determine if trends data has future predictive power on a 
 The VIX is a volatility (implied volatility) measure of  the S&P 500, it represents the volatility expected by the market and it is called the 'fear index'.
 Several baseline models are widely used to predict VIX (ARIMA, Garch). After a selection of relevant trends topics we are going to explore their predictive power.
 
-Secondly we'd like to test this technique on something more "tangible". We propose to predict each months' Tesla vehicules sales. Automakers release their sales numbers
 
 # Research Questions
 
@@ -21,3 +20,4 @@ Secondly we'd like to test this technique on something more "tangible". We propo
 - Does Google Trends have future predicting power ?
 
 # Proposed Datasets
+- Yahoo Data for VIX : https://finance.yahoo.com/quote/%5EVIX/
