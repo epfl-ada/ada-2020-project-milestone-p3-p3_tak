@@ -1,4 +1,4 @@
-# Title: VIX
+# Title: Future predictions using Google Trends data
 
 ## Abstract
 
