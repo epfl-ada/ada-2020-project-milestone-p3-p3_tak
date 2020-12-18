@@ -20,3 +20,9 @@ Several baseline models are widely used to predict VIX (ARIMA, Garch). After a s
 ## Proposed Datasets
 
 [Yahoo Data for VIX](https://finance.yahoo.com/quote/%5EVIX/history?p=%5EVIX) is available to download as a .csv for daily, weekly or monthly frequencies.
+
+## Contributions
+
+- Anas: Coming up with the analysis framework, Coding up the algorithms
+- Khalil: Problem formulation, Writing the final report, Data acquisition
+- Tariq: Plotting Graphs, Coding up the algorithms, Refactor notebooks
